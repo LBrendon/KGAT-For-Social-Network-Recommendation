@@ -3,9 +3,9 @@ This is pytorch implementation for the paper:
 
 >Xiang Wang, Xiangnan He, Yixin Cao, Meng Liu and Tat-Seng Chua (2019). KGAT: Knowledge Graph Attention Network for Recommendation. [Paper in ACM DL](https://dl.acm.org/authorize.cfm?key=N688414) or [Paper in arXiv](https://arxiv.org/abs/1905.07854). In KDD'19, Anchorage, Alaska, USA, August 4-8, 2019.
 
-pytorch vision implementation by :Luna-Fu
-Tensorflow implementation by the paper authors [here](https://github.com/xiangwang1223/knowledge_graph_attention_network).
-This code was modified for transfer SNAP fackbook dataset into knowledge graph for model train.
+* pytorch vision implementation by :Luna-Fu
+* Tensorflow implementation by the paper authors [here](https://github.com/xiangwang1223/knowledge_graph_attention_network).
+* This code was modified for transfer SNAP fackbook dataset into knowledge graph for model train.
 
 #Environment Requirement:
 Python 3.7.10
