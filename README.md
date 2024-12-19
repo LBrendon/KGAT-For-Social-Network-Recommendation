@@ -17,8 +17,8 @@ Python 3.7.10
 * scikit-learn == 1.0.1
 
 ### Run the Codes
-*For generate the knowledge graph and train data and test run kg_generate_main under kg_generate package.
-*For train the KGAT model run main_kgat.
-*For train the NFM model run main_nfm.
-*For train the CKE model run main_cke.
-*Before you run please change the data path in kgat_parser package or use --data_dir to change the path.
+* For generate the knowledge graph and train data and test run kg_generate_main under kg_generate package.
+* For train the KGAT model run main_kgat.
+* For train the NFM model run main_nfm.
+* For train the CKE model run main_cke.
+* Before you run please change the data path in kgat_parser package or use --data_dir to change the path.
