@@ -1,0 +1,48 @@
+birthday;anonymized feature 2 698 861 703 745 888
+birthday;anonymized feature 3 873 876 856
+education;classes;id;anonymized feature 335 828 747 774
+education;classes;id;anonymized feature 336 703 828 747 774
+education;concentration;id;anonymized feature 14 859 860 862 870 884 804 856
+education;degree;id;anonymized feature 22 859 862 868 877
+education;school;id;anonymized feature 340 769 703 828 713 745 747 719 890 774 856
+education;school;id;anonymized feature 341 769 862 865 697 868 828 713 745 719 890
+education;school;id;anonymized feature 369 867 776
+education;school;id;anonymized feature 342 703 828 747 774 856
+education;school;id;anonymized feature 370 861 888
+education;school;id;anonymized feature 348 863 871 884 888 893 804 856
+education;type;anonymized feature 53 811 859 860 769 861 862 863 865 867 697 776 870 871 828 876 713 745 747 877 881 884 888 719 890 774 825 893 804 895 856
+education;type;anonymized feature 54 859 860 861 862 867 868 776 873 874 713 877 885 888 825 893 856
+education;type;anonymized feature 55 811 859 860 769 861 862 863 870 703 873 874 828 713 745 747 877 881 884 885 888 719 890 774 825 804 895 856
+education;with;id;anonymized feature 350 703 828 747
+education;year;id;anonymized feature 59 859 885
+education;year;id;anonymized feature 255 867 776 825
+education;year;id;anonymized feature 60 870 873 874
+education;year;id;anonymized feature 61 769 861 776 713 888 890
+education;year;id;anonymized feature 64 859 867 873 877 881 888 893 804 895 856
+education;year;id;anonymized feature 71 867 873 877 881 890 895 856
+education;year;id;anonymized feature 259 859 713 884 888 804 856
+education;year;id;anonymized feature 72 860 769 747 890
+first_name;anonymized feature 355 747 774
+first_name;anonymized feature 356 698 892 803
+gender;anonymized feature 77 811 861 867 697 819 871 872 703 800 828 713 745 880 882 884 798 885 753 823 886 772 719 890 805
+gender;anonymized feature 78 698 810 857 858 859 860 769 840 862 863 729 864 865 866 868 869 708 776 870 873 874 876 747 877 878 879 881 883 887 888 889 774 825 891 892 803 893 804 894 895 856
+hometown;id;anonymized feature 359 810 800 828 713 747 719 804
+hometown;id;anonymized feature 366 884 888 893
+languages;id;anonymized feature 92 859 769 867 871 747 884 885 890
+last_name;anonymized feature 371 698 892
+last_name;anonymized feature 365 769 869
+locale;anonymized feature 126 859 769 861 840 729 708 819 800 830 876 713 745 747 877 878 881 882 798 823 886 887 888 772 889 890 891 803 895
+locale;anonymized feature 127 698 810 857 811 858 860 862 863 864 865 866 867 697 868 869 776 870 871 703 874 828 879 880 883 884 885 753 719 774 825 892 893 804 894 805 856
+location;id;anonymized feature 359 828 713 745 719 890 774 825 891 803
+location;id;anonymized feature 366 857 861 871 881 888 804 895
+name;anonymized feature 372 698 892
+work;employer;id;anonymized feature 373 867 776 877 885
+work;employer;id;anonymized feature 140 870 871 881 895
+work;employer;id;anonymized feature 154 862 865
+work;end_date;anonymized feature 157 862 867 776 703 828 877 881 885 888 895
+work;end_date;anonymized feature 161 873 885
+work;location;id;anonymized feature 374 859 867 873 874 885
+work;location;id;anonymized feature 366 870 871 893 895
+work;start_date;anonymized feature 157 859 776 703 828 895
+work;start_date;anonymized feature 375 867 885
+work;start_date;anonymized feature 196 874 885
